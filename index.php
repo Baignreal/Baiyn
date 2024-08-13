@@ -1,6 +1,6 @@
 <?php
 
-$botToken = "7152252359:AAHqNaPmswWZsItY8frzO1vcexonoUxkxuw";
+$botToken = "7372818575:AAFwwJf5VCa8gK2zF0DuwyaYfp8HIXM-kB4";
 
 $website = "https://api.telegram.org/bot".$botToken;
 $update = file_get_contents('php://input');
@@ -30,8 +30,8 @@ $username3       = ('@'.$username);
 $emojid = '❌';
 $emojil = '✅';
 $owner = '<code>@Gopinoob</code>';
-$botu = "𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ↯ @hackedworld69";
-$bota = "<b>|×| 𝘿𝙀𝙑 ↯ @Gopinoob</b>";$eror = "<b>Error ❌</b>";
+$botu = "𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ↯ @Happy_kuma";
+$bota = "<b>|×| 𝘿𝙀𝙑 ↯ @Happy_kuma</b>";$eror = "<b>Error ❌</b>";
 
 $dd = "𝗗𝗲𝗰𝗹𝗶𝗻𝗲𝗱 ❌";
 $live = "𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱 ✅";
@@ -174,7 +174,7 @@ if ($cdata2 == "buy") {
 $keyboard = json_encode([
     'inline_keyboard' => [
         [
-            ['text' => "↯ 𝘽𝙐𝙔 𝘼𝘾𝘾𝙀𝙎𝙎", 'url' => "https://t.me/Gopinoob"],
+            ['text' => "↯ 𝘽𝙐𝙔 𝘼𝘾𝘾𝙀𝙎𝙎", 'url' => "https://t.me/Happy_kuma"],
         ],
     ]
 ]);
@@ -200,7 +200,7 @@ $bota</b>";
     ]
 ]);
 
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -285,7 +285,7 @@ if ($cdata2 == "free") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -330,7 +330,7 @@ if ($cdata2 == "freec") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -378,7 +378,7 @@ if ($cdata2 == "freea") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -429,7 +429,7 @@ if ($cdata2 == "freeg") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -478,7 +478,7 @@ if ($cdata2 == "freeh") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -525,7 +525,7 @@ if ($cdata2 == "premium") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video', 
@@ -569,7 +569,7 @@ if ($cdata2 == "premiump") {
 $bota";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "https://t.me/JasurAEP/2519";
 
     $inputMediaVideo = json_encode([
         'type' => 'video', 
@@ -638,7 +638,7 @@ if ($cdata2 == "herr") {
 × 𝙎𝙏𝘼𝙏𝙐𝙎 - <code>𝙊𝙉 ✅</code>
 ╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍ </b>
 
-<b>|×| 𝘿𝙀𝙑 </b>- @hackedworld69";
+<b>|×| 𝘿𝙀𝙑 </b>- @Happy_kuma";
 
     // Change this to your video URL
     $videoUrl = "https://t.me/hackedworld69/10";
@@ -673,7 +673,7 @@ if ($cdata2 == "herr") {
 //========finalize end=========//
 $channel = json_encode([
     'inline_keyboard' => [
-        [['text' => "𝙊𝙒𝙉𝙀𝙍", 'url' => "t.me/Gopinoob"], ['text' => "𝘾𝙃𝘼𝙉𝙉𝙀𝙇", 'url' => "https://t.me/hackedworld69"]],
+        [['text' => "𝙊𝙒𝙉𝙀𝙍", 'url' => "https://t.me/Happy_kuma"], ['text' => "𝘾𝙃𝘼𝙉𝙉𝙀𝙇", 'url' => "SOON"]],
         [['text' => "𝙂𝙊 𝘽𝘼𝘾𝙆 ", 'callback_data' => 'back2']]
     ]
 ]);
@@ -682,7 +682,7 @@ if ($cdata2 == "channel") {
     $channelText = "𝙅𝙊𝙄𝙉 𝙈𝙔 𝘾𝙃𝘼𝙉𝙉𝙀𝙇𝙎 𝙁𝙊𝙍 𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎.";
 
     // Change this to your video URL
-    $videoUrl = "https://t.me/hackedworld69/10";
+    $videoUrl = "SOON";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -701,7 +701,7 @@ if ($cdata2 == "back2") {
     $backtxt = ("Welcome click /price to buy the Premium plan ✅");
 
     // Change this to your video url
-    $backVideoUrl = "https://t.me/hackedworld69/10"; 
+    $backVideoUrl = "https://t.me/JasurAEP/2519"; 
 
     $keyboard2 = json_encode([
     'inline_keyboard' => [
